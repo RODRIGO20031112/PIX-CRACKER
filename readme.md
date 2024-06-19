@@ -54,6 +54,6 @@ Conheça a <a href="https://app.perfectpay.com.br/refer/REFPPU15CH11K6">Perfect 
 
 ## Considerações finais 🚩
 
-O Pix Cracker apenas mascára o recebedor, isso pode ser útil pra muitas coisas, tendo em vista que não é necessário ter uma conta CNPJ ou CPF vinculada diretamente ao recebedor, porque quem no caso recebe é a Perfect Pay
+O Pix Cracker cria apenas uma mascara para o recebedor, isso pode ser útil pra muitas coisas, tendo em vista que não é necessário ter uma conta CNPJ ou CPF vinculada diretamente ao recebedor, porque quem no caso recebe é a Perfect Pay
 
 Fique atento as taxas, isso tudo infelizmente ou felizmente só funciona porque de certa forma elas existem, por sua vez é o que garante a discrição dos dados da transação do PIX
